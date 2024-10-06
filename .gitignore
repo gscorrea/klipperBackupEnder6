@@ -1,0 +1,9 @@
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-20240201_172141.cfg
+*.bak
+*.bkp
+*.csv
+*.zip
